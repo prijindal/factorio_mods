@@ -1,0 +1,17 @@
+{
+  "name": "prijindal_modpack_essentials",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "Prijindal Essentials Modpack",
+  "author": "prijindal",
+  "description": "Modpack with essential mods, these only include some enhancements style mods.",
+  "dependencies": [
+    "Bottleneck",
+    "far-reach",
+    "Fill4Me",
+    "RecipeBook",
+    "VehicleSnap",
+    "Squeak Through",
+    "Todo-List"
+  ]
+}

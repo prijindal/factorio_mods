@@ -1,0 +1,13 @@
+{
+  "name": "prijindal_modpack_k2_se",
+  "version": "0.0.2",
+  "factorio_version": "1.1",
+  "title": "Prijindal K2 + SE Modpack",
+  "author": "prijindal",
+  "description": "Modpack with dependency of !K2 mods (considered a starter Krastorio2 modpack) and Space exploration official modpack.",
+  "dependencies": [
+    "nach0_modpack_k2",
+    "space-exploration-official-modpack",
+    "prijindal_modpack_essentials"
+  ]
+}
