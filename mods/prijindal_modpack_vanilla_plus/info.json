@@ -1,0 +1,19 @@
+{
+  "name": "prijindal_modpack_vanilla_plus",
+  "version": "0.0.1",
+  "factorio_version": "1.1",
+  "title": "Prijindal Vanilla Plus Modpack",
+  "author": "prijindal",
+  "description": "Modpack with essential mods, and some vanilla plus features which enhances the core functionality.",
+  "dependencies": [
+    "prijindal_modpack_essentials",
+    "jetpack",
+    "ElectricTrain",
+    "Load-Furn-2",
+    "Hovercrafts",
+    "Moar_Roboports",
+    "air-filtering",
+    "Nanobots",
+    "Aircraft"
+  ]
+}

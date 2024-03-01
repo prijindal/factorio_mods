@@ -1,0 +1,16 @@
+{
+  "name": "factorio_mods",
+  "module": "index.ts",
+  "devDependencies": {
+    "@types/archiver": "^6.0.2",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/yargs": "^17.0.32",
+    "archiver": "^7.0.0",
+    "yargs": "^17.7.2"
+  }
+}
